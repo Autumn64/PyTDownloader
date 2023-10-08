@@ -1,0 +1,102 @@
+{
+    "en": {
+        "mainFrame": {
+            "enterLabel": "Enter a YouTube link:",
+            "downloadBtn": "Download",
+            "progressLabel": ["Getting video information...", "Downloading...", "downloaded", "Converting...", "Converting, might take a while..."],
+            "cancelBtn": "Cancel",
+            "messagebox1": "It seems 1080p is not available, trying with 720p...",
+            "messagebox2": "is not available! Try with another resolution.",
+            "messagebox3": "is not a valid YouTube link!",
+            "messagebox4": "Download cancelled",
+            "messagebox5": "Error!",
+            "messagebox6": "Downloaded successfully!",
+            "messagebox7": "It seems mp3 is not available!",
+            "aboutLabel": "Licensed under BSD-3-Clause License."
+        },
+        "configFrame": {
+            "titleLabel": "Settings",
+            "modeLabel": "Dark mode",
+            "scaleLabel": "Scaling Factor",
+            "langLabel": "Language",
+            "resetBtn": "Reset settings",
+            "messagebox1": "Reset settings?",
+            "messagebox2": "Settings reset successfully!"
+        }
+    },
+    "es": {
+        "mainFrame": {
+            "enterLabel": "Introduce un link de YouTube:",
+            "downloadBtn": "Descargar",
+            "progressLabel": ["Obteniendo información del video...", "Descargando...", "descargado", "Convirtiendo...", "Convirtiendo, podría tardar un rato..."],
+            "cancelBtn": "Cancelar",
+            "messagebox1": "Parece que 1080p no está disponible, intentando con 720p...",
+            "messagebox2": "no está disponible! Intenta con otra resolución.",
+            "messagebox3": "no es un link de YouTube válido!",
+            "messagebox4": "Descarga cancelada",
+            "messagebox5": "Error!",
+            "messagebox6": "Descargado exitosamente!",
+            "messagebox7": "Parece que mp3 no está disponible!",
+            "aboutLabel": "Con licencia BSD de 3 cláusulas."
+        },
+        "configFrame": {
+            "titleLabel": "Configuración",
+            "modeLabel": "Modo oscuro",
+            "scaleLabel": "Factor de escalado",
+            "langLabel": "Idioma",
+            "resetBtn": "Restaurar configuración",
+            "messagebox1": "Restaurar configuración?",
+            "messagebox2": "Configuración restaurada exitosamente!"
+        }
+    },
+    "fr": {
+        "mainFrame": {
+            "enterLabel": "Entrez un lien de YouTube:",
+            "downloadBtn": "Télécharger",
+            "progressLabel": ["Obtenement des informations vidéo...", "Téléchargement...", "téléchargé", "Conversion...", "Conversion, pourrait prendre un certain temps..."],
+            "cancelBtn": "Annuler",
+            "messagebox1": "Il semble que 1080p ne soit pas disponible, essai avec 720p...",
+            "messagebox2": "n'est pas disponible! Essayez avec une autre résolution.",
+            "messagebox3": "n'est pas un lien de YouTube valide!",
+            "messagebox4": "Téléchargement annulé",
+            "messagebox5": "Erreur!",
+            "messagebox6": "Téléchargé avec succès!",
+            "messagebox7": "Il semble que mp3 ne soit pas disponible!",
+            "aboutLabel": "Avec licence BSD à 3 Clauses."
+        },
+        "configFrame": {
+            "titleLabel": "Paramètres",
+            "modeLabel": "Mode sombre",
+            "scaleLabel": "Facteur d'échelle",
+            "langLabel": "Langue",
+            "resetBtn": "Réinitialiser les paramètres",
+            "messagebox1": "Réinitialiser les paramètres?",
+            "messagebox2": "Paramètres réinitialisés avec succès!"
+        }
+    },
+    "eo": {
+        "mainFrame": {
+            "enterLabel": "Enigu YouTube ligilon:",
+            "downloadBtn": "Elŝuti",
+            "progressLabel": ["Akirante video-informon...", "Elŝutante...", "elŝutita", "Konvertante...", "Konvertante, eble daŭros iom da tempo..."],
+            "cancelBtn": "Nuligi",
+            "messagebox1": "Ŝajnas ke 1080p ne estas disponebla, provante kun 720p...",
+            "messagebox2": "ne estas disponebla! Provu kun alia rezolucio.",
+            "messagebox3": "ne estas ĝusta YouTube ligilo!",
+            "messagebox4": "Elŝuto nuligita",
+            "messagebox5": "Eraro!",
+            "messagebox6": "Elŝutita sukcese!",
+            "messagebox7": "Ŝajnas ke mp3 ne estas disponebla!",
+            "aboutLabel": "Kun BSD-3-Clause licenco."
+        },
+        "configFrame": {
+            "titleLabel": "Agordoj",
+            "modeLabel": "Malhela reĝimo",
+            "scaleLabel": "Skalfaktoro",
+            "langLabel": "Lingvo",
+            "resetBtn": "Restarigi agordojn",
+            "messagebox1": "Ĉu restarigi agordojn?",
+            "messagebox2": "Agordoj restarigitaj sukcese!"
+        }
+    }
+}
