@@ -54,6 +54,6 @@ After doing that, the program already works just by running `python pytdownloade
 In order to create a package, please follow the instructions from the [CustomTkinter documentation](https://customtkinter.tomschimansky.com/documentation/packaging).
 
 ### Extra information
-Thanks so much to all of our [contributors](https://github.com/Autumn64/PyTDownloader/graphs/contributors).
+Thanks so much to all of our [contributors](https://codeberg.org/Autumn64/PyTDownloader/activity/yearly).
 
 #### All the code in this repository is licensed under the [BSD 3-Clause License](LICENSE.txt), with some modules licensed under the [GNU Lesser General Public License (LGPL) version 2.1](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) or later and the [MIT License](MIT-LICENSE.txt). The resources used for the app's logo are licensed under the [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), and the resources used for the private logos and names inside the app belong to their respective Copyright holders and no infraction is intended by using them. This app is meant to be distributed for non-commercial purposes, and neither this project's owner nor its contributors are responsible for the use anyone outside of it might give to the software provided and its assets.
