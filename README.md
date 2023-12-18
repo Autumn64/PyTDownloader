@@ -1,8 +1,8 @@
 # PyTDownloader
-![Contributors](https://img.shields.io/github/contributors/Autumn64/PyTDownloader)
-![Stars](https://img.shields.io/github/stars/Autumn64/PyTDownloader)
-![License](https://img.shields.io/github/license/Autumn64/PyTDownloader)
-![Issues](https://img.shields.io/github/issues/Autumn64/PyTDownloader)
+[![Pull requests](https://img.shields.io/badge/dynamic/json.svg?label=pull%20requests&style=for-the-badge&color=limegreen&url=https://codeberg.org/api/v1/repos/Autumn64/PyTDownloader&query=open_pr_counter)](https://codeberg.org/Autumn64/PyTDownloader/pulls)
+[![Issues](https://img.shields.io/badge/dynamic/json.svg?label=issues&style=for-the-badge&color=red&url=https://codeberg.org/api/v1/repos/Autumn64/PyTDownloader&query=open_issues_count)](https://codeberg.org/Autumn64/PyTDownloader/issues)
+[![Stars](https://img.shields.io/badge/dynamic/json.svg?label=stars&style=for-the-badge&color=yellow&url=https://codeberg.org/api/v1/repos/Autumn64/PyTDownloader&query=stars_count)](https://codeberg.org/Autumn64/PyTDownloader)
+[![License](https://img.shields.io/badge/license-BSD--3--Clause-green?label=license&style=for-the-badge&url=)](https://codeberg.org/Autumn64/PyTDownloader/src/branch/main/LICENSE.txt)
 ## A free, open-source, modern, simple and portable YouTube downloader.
 
 ![App logo](logo.png)
