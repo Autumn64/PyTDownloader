@@ -1,0 +1,3 @@
+BSD-3-Clause: PyTDownloader and all of its source parts. PyTDownloader Installer.
+LGPL v2.1: FFMPEG
+MIT: CustomTkinter

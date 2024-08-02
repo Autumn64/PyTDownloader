@@ -92,13 +92,18 @@ if __name__ == "__main__":
         languages: dict = json.load(f)
     settings = Settings()
     root = Window(settings)
+    
     if sys.platform == "win32":
         root.iconbitmap(f'{os.path.dirname(os.path.abspath(__file__))}/icon.ico')
     else:
         root.iconphoto(True, tk.PhotoImage(file=f'{os.path.dirname(os.path.abspath(__file__))}/logo.png'))
     root.protocol("WM_DELETE_WINDOW", lambda: sys.exit(0))
+
     if len(sys.argv) > 1 and sys.argv[1].startswith("scale="): #This is mostly for GNU/Linux distributions since fractional scaling messes the layout up.
-        root.tk.call('tk', 'scaling', float(sys.argv[1].replace("scale=", "").strip()))
+        try:
+            root.tk.call('tk', 'scaling', float(sys.argv[1].replace("scale=", "").strip()))
+        except:
+            root.tk.call('tk', 'scaling', 1)
         ctk.set_widget_scaling(3)
         root.changeScale()
     root.mainloop()

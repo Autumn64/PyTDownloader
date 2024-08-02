@@ -78,20 +78,20 @@
         "mainFrame": {
             "enterLabel": "Enigu YouTube ligilon:",
             "downloadBtn": "Elŝuti",
-            "progressLabel": ["Akirante video-informon...", "Elŝutante...", "elŝutita", "Konvertante...", "Konvertante, eble daŭros iom da tempo..."],
+            "progressLabel": ["Akirante video-informon...", "Elŝutante...", "elŝutite", "Konvertante...", "Konvertante, eble daŭros iom da tempo..."],
             "cancelBtn": "Nuligi",
-            "messagebox1": "Ŝajnas ke 1080p ne estas disponebla, provante kun 720p...",
-            "messagebox2": "ne estas disponebla! Provu kun alia rezolucio.",
+            "messagebox1": "Ŝajnas ke 1080p ne haveblas, provante kun 720p...",
+            "messagebox2": "ne haveblas! Provu kun alia rezolucio.",
             "messagebox3": "ne estas ĝusta YouTube ligilo!",
             "messagebox4": "Elŝuto nuligita",
             "messagebox5": "Eraro!",
             "messagebox6": "Elŝutita sukcese!",
-            "messagebox7": "Ŝajnas ke mp3 ne estas disponebla!",
-            "aboutLabel": "Kun BSD-3-Clause licenco."
+            "messagebox7": "Ŝajnas ke mp3 ne haveblas!",
+            "aboutLabel": "Laŭ BSD-3-Clause permesilo."
         },
         "configFrame": {
             "titleLabel": "Agordoj",
-            "modeLabel": "Malhela reĝimo",
+            "modeLabel": "Malhela aspekto",
             "scaleLabel": "Skalfaktoro",
             "langLabel": "Lingvo",
             "resetBtn": "Restarigi agordojn",
